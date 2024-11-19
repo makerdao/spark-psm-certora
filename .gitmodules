@@ -1,0 +1,3 @@
+[submodule "spark-psm"]
+	path = spark-psm
+	url = https://github.com/marsfoundation/spark-psm.git
